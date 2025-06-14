@@ -93,7 +93,7 @@ while 1:
 
 ```json
 {
-  "uin": "1395650301",
+  "uin": "qq号",
   "name": "用户名",
   "total_messages": 120,
   "latest_messages": [
